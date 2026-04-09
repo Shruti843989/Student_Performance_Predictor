@@ -6,17 +6,17 @@ A Machine Learning-based web application that predicts a student's academic perf
 
 ## 🚀 Features
 
-* 📌 Predict student performance instantly
-* 📌 User-friendly interface built with Streamlit
-* 📌 Real-time input and prediction
-* 📌 Clean and interactive UI
-* 📌 Uses trained Machine Learning model
+*  Predict student performance instantly
+*  User-friendly interface built with Streamlit
+*  Real-time input and prediction
+*  Clean and interactive UI
+*  Uses trained Machine Learning model
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-* **Python** 🐍
+* **Python** 
 * **Pandas & NumPy** – Data Processing
 * **Scikit-learn** – Machine Learning
 * **Streamlit** – Web Application
