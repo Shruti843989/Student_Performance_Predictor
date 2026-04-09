@@ -24,4 +24,3 @@ A Machine Learning-based web application that predicts a student's academic perf
 
 ---
 
- to give it a star!
