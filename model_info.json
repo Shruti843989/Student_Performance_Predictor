@@ -1,0 +1,13 @@
+{
+    "model_type": "Linear Regression",
+    "feature": "StudyHours",
+    "target": "Marks",
+    "coefficient": 9.7134,
+    "intercept": 20.8932,
+    "r2_score": 0.9481,
+    "rmse": 3.6936,
+    "mae": 2.9484,
+    "train_size": 40,
+    "test_size": 10,
+    "formula": "Marks = 9.71 x StudyHours + 20.89"
+}
